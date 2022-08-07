@@ -1,2 +1,2 @@
 ## Final Thesis
-Undergrad Thesis Python Scripts 
+A collection of python scripts used in BSCpE 2022 Final thesis.
